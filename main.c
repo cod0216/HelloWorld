@@ -1,10 +1,7 @@
-HelloWorld.c 
- hihi~~
- 222
- hihihihihi
- djfkljasfdl
- sdfjklsadjfklas
- sadfkljsdf
+#include <stdio.h>
+#include <stdlib.h>
 
- :wq
-
+int main()
+{
+		return 0;
+}
